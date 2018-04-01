@@ -1,0 +1,2 @@
+# openlisensi
+/open-lisensi
